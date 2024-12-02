@@ -1,6 +1,6 @@
 # Music Pauser
 
-Music Pauser is a macOS menu bar application that automatically pauses music playback on **Spotify** or **Apple Music** when another application starts playing audio. Once the other application stops playing audio, Music Pauser will resume music playback.
+I made this because when I pause an instructional video to take notes, I do not like the silence. Music Pauser is a macOS menu bar application that automatically pauses music playback on **Spotify** or **Apple Music** when another application starts playing audio. Once the other application stops playing audio, Music Pauser will resume music playback.
 
 ![Screenshot of in menu bar](https://github.com/hosung-kim11/music-pauser/blob/main/screenshot.jpeg?raw=true)
 
