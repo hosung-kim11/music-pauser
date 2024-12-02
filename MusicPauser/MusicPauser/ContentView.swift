@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  MusicPauser
 //
-//  Created by Hosung Kim on 12/1/24.
 //
 
 import SwiftUI
@@ -13,7 +12,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Music Pauser :)")
         }
         .padding()
     }
